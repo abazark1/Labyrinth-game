@@ -1,0 +1,194 @@
+; EASY 1
+
+xxxxxxxxxx
+x  x     *
+x  x     x
+x  &   xxx
+xxxxx    x
+x        x
+x    xxx x
+x x    x x
+x@x    x x
+xxxxxxxxxx
+
+; EASY 2
+
+xxxxxxxxxx
+x        *
+x  xxxxxxx
+x  xxxxx x
+xx xxxxx x
+x  xxx   x
+x       &x
+x  xxx   x
+x@xx     x
+xxxxxxxxxx
+
+; EASY 3
+
+xxxxxxxxxx
+xxx      *
+x      xxx
+x  xxxx  x
+x      x x
+x &  x x x
+x    x x x
+xxxxxx x x
+x@       x
+xxxxxxxxxx
+
+; EASY 4
+
+xxxxxxxxxx
+xxxx     *
+xxx    xxx
+x   &   xx
+x x   x xx
+x        x
+xx x x x x
+xxxx     x
+x@     xxx
+xxxxxxxxxx
+
+; EASY 5
+
+xxxx x xxx
+xxx  xxx *
+xx       x
+x   &  x x
+xxx  xxx x
+xxx      x
+xxx xx x x
+xx      xx
+xx@    xxx
+xxxxxxxxxx
+
+; MEDIUM 1
+
+xxxxxxxxxx
+x        *
+x   x  xxx
+xxxxx    x
+x   x x  x
+x    xx &x
+x x  xx  x
+x x  xx  x
+x@x      x
+xxxxxxxxxx
+
+; MEDIUM 2
+
+xxxxxxxxxx
+x  xxxx  *
+x        x
+xx xx    x
+x   x  & x
+x   x    x
+xx xx xxxx
+x        x
+x@       x
+xxxxxxxxxx
+
+; MEDIUM 3
+
+xxxxxxxxxx
+xx     x *
+xxx & x  x
+x xx     x
+x  x  x  x
+xxxx xxxxx
+x       xx
+x       xx
+x@   xxxxx
+xxxxxxxxxx
+
+; MEDIUM 4
+
+xxxxxxxxxx
+xx       *
+xx x  x xx
+x        x
+x  &     x
+xxx    xxx
+xx      xx
+x        x
+x@x    xxx
+xxxxxxxxxx
+
+; MEDIUM 5
+
+xxxxxxxxxx
+x        *
+x        x
+xx xxx & x
+x       xx
+x       xx
+xxxx x x x
+x        x
+x@     xxx
+xxxxxxxxxx
+
+; HARD 1
+
+xxxxxxxxxx
+x        *
+xxxxx x  x
+x   x xxxx
+x   x    x
+xxx xxx  x
+x   & x  x
+x x   x  x
+x@x      x
+xxxxxxxxxx
+
+; HARD 2
+
+xxxxxxxxxx
+x    x x *
+x    x x x
+x   xx   x
+x    & x x
+x xx  xx x
+x x   x  x
+xxx   xxxx
+x@       x
+xxxxxxxxxx
+
+; HARD 3
+
+xxxxxxxxxx
+x   & xx *
+x xxx    x
+x   xxxxxx
+x     x  x
+x   x xx x
+x   x    x
+xxxxx xx x
+x@     x x
+xxxxxxxxxx
+
+; HARD 4
+
+xxxxxxxxxx
+x    x   *
+x &  x   x
+xx   x   x
+xxx    xxx
+x        x
+x     x  x
+xxxxx x  x
+x@       x
+xxxxxxxxxx
+
+; HARD 5
+
+xxxxxxxxxx
+x x      *
+x   xxxxxx
+x        x
+xxxxxx   x
+x  &    xx
+x       xx
+x x  x   x
+x@   x   x
+xxxxxxxxxx
